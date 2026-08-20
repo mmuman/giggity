@@ -1,0 +1,24 @@
+{
+	"version": 2026082000,
+	"url": "https://talks.osgeo.org/foss4g-2026/schedule/export/schedule.xml",
+	"title": "FOSS4G 2026",
+	"start": "2026-08-30",
+	"end": "2026-09-05",
+	"timezone": "Asia/Tokyo",
+	"metadata": {
+		"links": [
+			{
+				"url": "https://2026.foss4g.org/",
+				"title": "Website"
+			},
+			{
+				"url": "https://2026.foss4g.org/en/attending/accommodation/",
+				"title": "Accommodation"
+			},
+			{
+				"url": "https://2026.foss4g.org/en/about/code-of-conduct/",
+				"title": "Code of Conduct"
+			}
+		]
+	}
+}
