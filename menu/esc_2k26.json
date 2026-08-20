@@ -1,0 +1,28 @@
+{
+	"version": 2026081700,
+	"url": "https://pretalx.endsummer.camp/2k26/schedule/export/schedule.xml",
+	"title": "End Summer Camp {22}",
+	"start": "2026-09-01",
+	"end": "2026-09-06",
+	"timezone": "Europe/Rome",
+	"metadata": {
+		"links": [
+			{
+				"url": "https://endsummer.camp/",
+				"title": "End Summer Camp website"
+			},
+			{
+				"url": "https://t.me/endsummercamp",
+				"title": "Telegram chat"
+			},
+			{
+				"url": "https://t.me/esc_annunci",
+				"title": "Telegram announcement channels"
+			},
+      		{
+				"url": "https://endsummercamp.org/",
+				"title": "Historical wiki"
+			}
+		]
+	}
+}
