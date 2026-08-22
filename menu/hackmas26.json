@@ -1,0 +1,21 @@
+{
+    "title": "Håck ma's Castle 2026",
+    "metadata": {
+        "links": [
+            {
+                "title": "Website",
+                "url": "https://hack-mas.at/"
+            },
+            {
+                "title": "Openki",
+                "url": "https://openki.hack-mas.at/"
+            }
+        ]
+    },
+    "url": "https://openki.hack-mas.at/api/0/xml/schedule?region=6JRpcbs8v39PyeA48&limit=999",
+    "timezone": "Europe/Vienna",
+    "start": "2026-08-20",
+    "end": "2026-08-30",
+    "refresh_interval": 86400,
+    "version": 2026082001
+}
